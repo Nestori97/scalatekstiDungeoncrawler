@@ -1,0 +1,28 @@
+2025.01.04 16:21:16 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\paska\Downloads\scalatekstiDungeoncrawler' for client Visual Studio Code 1.96.2.
+2025.01.04 16:21:16 INFO  no build target found for C:\Users\paska\Downloads\scalatekstiDungeoncrawler\ui\AdventureTextUI.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.04 16:21:17 INFO  no build target found for C:\Users\paska\Downloads\scalatekstiDungeoncrawler\ui\AdventureTextUI.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 04, 2025 4:21:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.01.04 16:21:18 INFO  Running List(C:\Users\paska\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\paska\Downloads\scalatekstiDungeoncrawler)
+2025.01.04 16:21:18 INFO  Attempting to connect to the build server...
+2025.01.04 16:21:18 INFO  Running BSP server List(C:\Users\paska\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\paska\Downloads\scalatekstiDungeoncrawler\.scala-build\ide-options-v2.json, C:\Users\paska\Downloads\scalatekstiDungeoncrawler)
+2025.01.04 16:21:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\paska\Downloads\scalatekstiDungeoncrawler\.metals\bsp.trace.json or C:\Users\paska\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.01.04 16:21:19 INFO  BSP server: Starting compilation server
+2025.01.04 16:21:19 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2025.01.04 16:21:19 INFO  BSP server: For more details, please see 'C:\Users\paska\Downloads\scalatekstiDungeoncrawler\.scala-build\stacktraces\1736000479-11118392726176300092.log'
+2025.01.04 16:21:19 INFO  BSP server: Running
+2025.01.04 16:21:19 INFO  BSP server:   C:\Users\paska\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bloop output
+2025.01.04 16:21:19 INFO  BSP server: might give more details.
+2025.01.04 16:21:22 INFO  no build target found for C:\Users\paska\Downloads\scalatekstiDungeoncrawler\ui\AdventureTextUI.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 04, 2025 4:22:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.01.04 16:22:19 ERROR Timeout waiting for 'build/initialize' response
+2025.01.04 16:22:19 WARN  Retrying connection to the build server scala-cli
+2025.01.04 16:22:19 INFO  Running BSP server List(C:\Users\paska\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\paska\Downloads\scalatekstiDungeoncrawler\.scala-build\ide-options-v2.json, C:\Users\paska\Downloads\scalatekstiDungeoncrawler)
+2025.01.04 16:22:19 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\paska\Downloads\scalatekstiDungeoncrawler\.metals\bsp.trace.json or C:\Users\paska\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.01.04 16:22:20 INFO  BSP server: Starting compilation server
+2025.01.04 16:22:20 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2025.01.04 16:22:20 INFO  BSP server: For more details, please see 'C:\Users\paska\Downloads\scalatekstiDungeoncrawler\.scala-build\stacktraces\1736000540-12387503090657875704.log'
+2025.01.04 16:22:20 INFO  BSP server: Running
+2025.01.04 16:22:20 INFO  BSP server:   C:\Users\paska\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe bloop output
+2025.01.04 16:22:20 INFO  BSP server: might give more details.
